@@ -8,6 +8,10 @@ Se trata de una aplicación de tareas, en la cual podemos anotar distintas activ
 
 Tenemos un frontend que se conecta con una API preparada específicamente para oficiar de nuestro backend. De esta manera tendremos la persistencia de los datos en una DB propia.
 
+![image](https://github.com/campospaula/To-Do-App/assets/106278173/b337255c-48af-43c2-964e-1b3b11edf752)
+
+![image](https://github.com/campospaula/To-Do-App/assets/106278173/99a84f79-371b-4512-9f65-3ee16bae4707)
+
 
 ## API Docs
 Link con la documentación de los endpoints de la API y su funcionamiento:
